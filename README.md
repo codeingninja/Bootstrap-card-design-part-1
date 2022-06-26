@@ -12,5 +12,4 @@ Don't Forget To<br>
 Like ❤️ | Comment 🔥| Share 🚀 | Save ✌️
 
 ➺ Bootstrap card design part 2 Coming soon
-➲ Bootstrap card design part 2 Coming soon
 
