@@ -12,7 +12,7 @@ Stackblitz: <a href="https://stackblitz.com/@codeingninja" target="_blank">@code
 
 
 Also you can download from here.<br>
-Codepen: https://codepen.io/codeing-ninja<br>
+Codepen: https://codepen.io/codeing-ninja/pen/xxYeXWb<br>
 Stackblitz: https://stackblitz.com/edit/bootstrap-carddesign-part-1?file=index.html<br>
 
 
