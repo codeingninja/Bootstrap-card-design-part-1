@@ -12,6 +12,7 @@ Stackblitz: <a href="https://stackblitz.com/@codeingninja" target="_blank">@code
 
 
 Also you can download from here.<br>
+
 Codepen: https://codepen.io/codeing-ninja<br>
 Stackblitz: https://stackblitz.com/edit/web-platform-mn939c?file=index.html<br>
 
