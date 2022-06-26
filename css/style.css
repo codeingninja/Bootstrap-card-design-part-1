@@ -56,7 +56,8 @@ p {
 }
 
 /* ------------------------------ header style ------------------------------ */
-.navbar-light {
+.navbar-light,
+footer .row {
   background-color: var(--cd-color-dark) !important;
   border: 1px solid var(--cd-color-light-dark) !important;
 }
@@ -95,6 +96,22 @@ p {
     max-width: 200px;
   }
 }
+
+/* Footer code */
+
+.weburl {
+  font-size: 18px;
+  -webkit-animation: colorchange 0.5s infinite alternate;
+}
+@-webkit-keyframes colorchange {
+  0% {
+    color: #2fccef;
+  }
+  100% {
+    color: #520bad;
+  }
+}
+
 /* ------------------------------- Card style ------------------------------- */
 .card {
   background-color: var(--cd-color-light-dark);
