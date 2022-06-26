@@ -11,5 +11,5 @@ linkedin: <a href="https://www.linkedin.com/in/designer-ds/" target="_blank">�
 Don't Forget To<br>
 Like ❤️ | Comment 🔥| Share 🚀 | Save ✌️
 
-----------> Bootstrap card design part 2 Coming soon
+=======> Bootstrap card design part 2 Coming soon
 
