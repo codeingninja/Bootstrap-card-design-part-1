@@ -14,7 +14,7 @@ Like ❤️ | Comment 🔥| Share 🚀 | Save ✌️
 ===========================================
 ===========================================
 
-<b style="color:#2A8757">Bootstrap card design part 2 Coming soon</b>
+<b>Bootstrap card design part 2 Coming soon</b>
 
 ===========================================
 ===========================================
